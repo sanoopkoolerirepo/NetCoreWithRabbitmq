@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Ticketing.Microservice
+build_property.ProjectDir = C:\SANOOP\MicroserviceWithRabitMq\Solution1\Ticketing.Microservice\

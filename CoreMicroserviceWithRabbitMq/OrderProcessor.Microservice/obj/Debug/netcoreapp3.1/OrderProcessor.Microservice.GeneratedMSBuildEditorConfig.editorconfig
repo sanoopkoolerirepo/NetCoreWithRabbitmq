@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = OrderProcessor.Microservice
+build_property.ProjectDir = E:\Microservice\NetCoreWithRabbitMq\NetCoreWithRabbitmq\CoreMicroserviceWithRabbitMq\OrderProcessor.Microservice\
